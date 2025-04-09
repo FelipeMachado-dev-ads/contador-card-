@@ -1,6 +1,7 @@
 body {
-    background-image: url('./src/img/fundo.png');
+    /*background-image: url('./src/img/fundo.png'); não esta carregando imagem, procurar solução*/
     background-size: cover;
+    background-color: #0a0a0a;
 
 }
 
